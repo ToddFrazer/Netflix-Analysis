@@ -8,8 +8,8 @@ Todd Frazer
 
 ``` r
 library(ggplot2)
-Netflix_raw_data <- read.csv("Netflix-Analysis/Netflix_raw_data.csv”)
-head(Netflix_raw_data)
+Netflix_raw_data <- read.csv("C:/Users/toddf/Desktop/Google Data Analytics/Netflix_Data_Analysis/Netflix-Analysis/Netflix_raw_data.csv”)
+str(Netflix_raw_data)
 ```
 
 
